@@ -1,0 +1,19 @@
+h1,h2,h3,h4,h5,h6{
+    font-size: 120%;
+}
+h1:hover{
+    color: red;
+    font-size: 150%;
+    border: 10px solid rgb(212, 52, 52);
+}
+
+.arial{
+    text-indent: 3cm;
+    font-weight: bold;    
+}
+body{
+    background-image: url("https://i.pinimg.com/736x/12/6d/35/126d35d5d9f7ed473bac7c35b857cf93.jpg");
+    background-repeat: repeat-y;
+
+ 
+}

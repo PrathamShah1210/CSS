@@ -1,0 +1,41 @@
+p{
+    font-size: xx-large;
+    color: rgb(250, 246, 246);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: chocolate;
+    border-width: 5px;
+    border-style: dashed;
+    border-radius: 2px;
+    padding: 45px;
+    font-weight: bolder;
+    background-color: rgb(28, 31, 26);
+
+  
+}
+h1{
+    text-align: center;
+    color: rgb(1, 15, 15);
+}
+/* body{
+    background-image: url(mustang_black.jfif);
+    background-size: 200px 180px;
+  background-repeat:  repeat;
+  padding: 15px;
+} */
+
+div{
+    background-image: url(mustang_black.jfif);
+    padding: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+   background-position: center;
+   padding: 300px;
+   width: 60%;
+   
+
+}
+html{
+    background-image: url(mustang_logo.png);
+
+}

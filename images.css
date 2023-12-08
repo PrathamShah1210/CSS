@@ -1,0 +1,20 @@
+img{
+    margin: 0px;
+    padding: 0px;
+    opacity: 700;
+    height: 500px;
+    width: 700x;
+    padding: 220px;
+}
+div{
+    margin: auto;
+    padding: auto;
+    border: 10px solid red ;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3IO5i_lfKSqnZYdbQJ-xjcejS3XCAsLHnaGM0o6oZA&s");
+    background-repeat: no-repeat;
+    border-radius: 20px 25px 30px 15px;
+    background-size: contain;   
+
+
+
+}

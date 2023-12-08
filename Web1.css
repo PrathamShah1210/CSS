@@ -1,0 +1,61 @@
+#intro{
+    font-size: 300%;
+    font-weight: lighter;
+    color:#eceff3;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#first{
+    font-weight: bold;
+    font-size: 110%;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:#eceff3;
+}
+#third{
+    
+    margin-top: 50px;
+    margin-left: 50px;
+    color:#eceff3;
+}
+* {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+#navi {
+
+  background-color: rgb(58, 31, 31);
+  display: flex;
+  gap: 7%;
+  font-size: larger;
+  padding: 1%;
+}
+.navi_links>a{
+  color: aliceblue;
+  padding: 100% 10px;
+
+}
+body{
+    background-color: rgb(13, 56, 83);
+}
+#navi_home{
+    margin-left: 3%;
+}
+.navi_links:hover{
+    border: 2px solid white;
+}
+#hcs{
+  font-family:cursive;
+  /* background-color: rgb(85, 85, 85); */
+  background-color: transparent;
+  color: azure;
+}
+select>option{
+  color: rgb(175, 175, 175);
+  background-color:rgb(95, 51, 51);
+
+}
